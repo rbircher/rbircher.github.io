@@ -6,9 +6,20 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sa, 15 Jul 2017 06:06:31 +0200</pubDate>
-    <lastBuildDate>Sa, 15 Jul 2017 06:06:31 +0200</lastBuildDate>
+    <pubDate>Sa, 15 Jul 2017 06:08:33 +0200</pubDate>
+    <lastBuildDate>Sa, 15 Jul 2017 06:08:33 +0200</lastBuildDate>
 
+    <item>
+      <title>Willkommen beim Projekt Vefko</title>
+      <link>http://jbake.org/blog/2017/welcome.html</link>
+      <pubDate>Sa, 15 Jul 2017 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2017/welcome.html</guid>
+      	<description>
+	
+&lt;p&gt;Mit diesem Blog startet das Projekt Vefko. Hier werde ich Euch auf dem Laufenden halten sowie die gesamten Konzepte werden auch auf dieser Seite verlinkt sein. Des weiteren wird auch die Software Anpassungen auf meinem Github Account erscheinen und von hier aus verlinkt sein. &lt;/p&gt;
+
+	</description>
+    </item>
 
   </channel> 
 </rss>
