@@ -6,9 +6,20 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>So, 16 Jul 2017 01:58:44 +0200</pubDate>
-    <lastBuildDate>So, 16 Jul 2017 01:58:44 +0200</lastBuildDate>
+    <pubDate>So, 16 Jul 2017 04:07:45 +0200</pubDate>
+    <lastBuildDate>So, 16 Jul 2017 04:07:45 +0200</lastBuildDate>
 
+    <item>
+      <title>Wir bereiten die Gründung vor</title>
+      <link>http://jbake.org/blog/2017/news17062017.html</link>
+      <pubDate>So, 16 Jul 2017 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2017/news17062017.html</guid>
+      	<description>
+	&lt;p&gt;Wir sind glücklich nun in die Gründungsphase zu gehen. Im &lt;a href=&quot;grundkonzept.html&quot;&gt;Grundkonzept&lt;/a&gt; sind die Schritte aufgeführt, die wir machen müssen. Das ist bestimmt noch nicht vollständig aber mal ein Anfang.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/F-i3gAeEpgw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;In dem Video spreche ich über die Fortschritte. Wir halten Euch weiterhin auf dem laufenden.&lt;/p&gt;
+	</description>
+    </item>
     <item>
       <title>Willkommen beim Projekt Vefko</title>
       <link>http://jbake.org/blog/2017/welcome.html</link>
