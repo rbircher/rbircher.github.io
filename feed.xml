@@ -6,9 +6,27 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mi, 9 Aug 2017 00:11:56 +0200</pubDate>
-    <lastBuildDate>Mi, 9 Aug 2017 00:11:56 +0200</lastBuildDate>
+    <pubDate>Do, 7 Sep 2017 16:11:26 +0200</pubDate>
+    <lastBuildDate>Do, 7 Sep 2017 16:11:26 +0200</lastBuildDate>
 
+    <item>
+      <title>Verein kommt gut voran</title>
+      <link>http://jbake.org/blog/2017/news07092017.html</link>
+      <pubDate>Do, 7 Sep 2017 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2017/news07092017.html</guid>
+      	<description>
+	&lt;p&gt;Es ist viel gelaufen. In Zwischenzeit steht auch der Verein. Wir haben worklich das Glück, ein gutes und motiviertes Team zu haben. Möglicherweise gibt es bald noch Verstärkung. Wir sind aktuell an diversen Arbeiten gleichzeitig, wobei aktuell das Finanzielle im Vordergrund steht. Aktuell stehen folgende Aufgaben an:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Konto gründen&lt;/li&gt;
+  &lt;li&gt;Startup Sponsoren Dokumentation erstellen&lt;/li&gt;
+  &lt;li&gt;Startup Sponsoren suchen&lt;/li&gt;
+  &lt;li&gt;Crowdfunding starten.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Einige fragen sich vielleicht, weshalb wir Startup Sponsoren suchen, wenn wir doch ein Crowdfunding planen. Nun, bis man bei einem Crowdfunding wirklich Geld sieht, dauert es eine Weile. um Arbeiten zu können, brauchen sir aber schon vorher etwas Geld in der Kasse.&lt;/p&gt;
+&lt;p&gt;Des weiteren laufen allerdings auch schon technische Arbeiten. So laufen Vorabklährungen für Serverhosting und verwendbare Software. Auch Spezifikationen werden erstellt und Tests gefahren&lt;/p&gt;
+&lt;p&gt;**Ach ja, und wer gerne den Verein unterstützen möchte, und Passivmitglied, oder gar Startup Sponsor werden will, schreibt mich an.&quot;&quot; Angaben sind in der Info.&lt;/p&gt;
+	</description>
+    </item>
     <item>
       <title>Die Statuten stehen</title>
       <link>http://jbake.org/blog/2017/news28072017.html</link>
