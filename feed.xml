@@ -6,9 +6,21 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Do, 7 Sep 2017 16:18:12 +0200</pubDate>
-    <lastBuildDate>Do, 7 Sep 2017 16:18:12 +0200</lastBuildDate>
+    <pubDate>Sa, 9 Sep 2017 18:44:19 +0200</pubDate>
+    <lastBuildDate>Sa, 9 Sep 2017 18:44:19 +0200</lastBuildDate>
 
+    <item>
+      <title>Übergang vom Projekt zum Verein</title>
+      <link>http://jbake.org/blog/2017/news09092017.html</link>
+      <pubDate>Sa, 9 Sep 2017 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2017/news09092017.html</guid>
+      	<description>
+	&lt;p&gt;Darauf haben wir jetzt zwei Monate hingearbeitet. Aus dem Projekt wird ein Verein. Letzten Freitag haben Marc und ich die Formulare für das Vereinskonto ausgefüllt. Wenn alles gut geht, können wir schon bald auch Geschäftlich aktiv werden.&lt;/p&gt;
+&lt;p&gt;Des weiteren habe ich heute den ersten Server bestellt. Langsam fängt das ganze an zu leben. Auch wenn noch viele Stunden vergehen, bis wir die erste Version aufschalten können, ist es doch ein Anfang. Wir hoffen, die erste Version bis im Januar 2018 fertig zu haben.&lt;/p&gt;
+&lt;p&gt;Ein dickes Dankeschön geht an Marc Disch. Sein Einsatz in den letzten Wochen war wirklich super. So ein Vorhaben steht und fällt mit den Leuten die daran arbeiten. Genau hier haben wir eine gute Basis. Darüber bin ich froh.&lt;/p&gt;
+&lt;p&gt;Die nächste Woche wird wohl die Finanzierung das grosse Thema sein. Wenn die erste Finanzierung abgeschlossen ist, werden wir uns den technischen Angelegenheiten widmen. Darauf freuen wir uns ganz besonders.&lt;/p&gt;
+	</description>
+    </item>
     <item>
       <title>Verein kommt gut voran</title>
       <link>http://jbake.org/blog/2017/news07092017.html</link>
