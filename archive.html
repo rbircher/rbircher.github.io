@@ -45,7 +45,6 @@
           <ul class="nav navbar-nav">
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">Impressum</a></li>
-			<li><a href="sponsoren.html">Startup Sponsoren</a></li>
             <!--<li><a href="feed.xml">Subscribe</a></li>-->
          <!--<li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
@@ -72,40 +71,50 @@
 			<h4>September 2017</h4>
 			<ul>
 		
-		<li>16 - <a href="blog/2017/news15092017.html">Neues Vlog über den Verein</a></li>
-		
-		<li>12 - <a href="blog/2017/news12092017.html">Das Vereinskonto</a></li>
-		
-		<li>09 - <a href="blog/2017/news09092017.html">Übergang vom Projekt zum Verein</a></li>
-		
-		<li>07 - <a href="blog/2017/news07092017.html">Verein kommt gut voran</a></li>
-				</ul>
-				<h4>Juli 2017</h4>
-				<ul>
-		
-		<li>28 - <a href="blog/2017/news28072017.html">Die Statuten stehen</a></li>
-		
-		<li>16 - <a href="blog/2017/news17062017.html">Wir bereiten die Gründung vor</a></li>
-		
-		<li>15 - <a href="blog/2017/welcome.html">Willkommen beim Projekt Vefko</a></li>
-	</ul>
-	
-		</div>
-		<div id="push"></div>
-    </div>
-    
-    <div id="footer">
-      <div class="container">
-        <p class="muted credit">&copy; 2017 by Raphael Bircher | Mixed with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Baked with <a href="http://jbake.org">JBake v2.5.1</a></p>
-      </div>
-    </div>
-    
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery-1.11.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/prettify.js"></script>
-    
-  </body>
-</html>
+		<li>18 - <a href="blog/2017/news07092017.html">FreeMarker template error (DEBUG mode; use RETHROW in production!):
+The following has evaluated to null or missing:
+==> post.title  [in template "archive.ftl" at line 22, column 112]
+
+----
+Tip: It's the step after the last dot that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${post.title} auto-escaped  [in template "archive.ftl" at line 22, column 110]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:451)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:374)
+	at freemarker.core.BuiltInForLegacyEscaping._eval(BuiltInForLegacyEscaping.java:34)
+	at freemarker.core.Expression.eval(Expression.java:81)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:96)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:59)
+	at freemarker.core.Environment.visit(Environment.java:327)
+	at freemarker.core.Environment.visit(Environment.java:369)
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:316)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:272)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:243)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:596)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94)
+	at freemarker.core.Environment.visit(Environment.java:327)
+	at freemarker.core.Environment.visit(Environment.java:333)
+	at freemarker.core.Environment.process(Environment.java:306)
+	at freemarker.template.Template.process(Template.java:386)
+	at org.jbake.template.FreemarkerTemplateEngine.renderDocument(FreemarkerTemplateEngine.java:59)
+	at org.jbake.template.DelegatingTemplateEngine.renderDocument(DelegatingTemplateEngine.java:65)
+	at org.jbake.app.Renderer.render(Renderer.java:236)
+	at org.jbake.app.Renderer.renderArchive(Renderer.java:328)
+	at org.jbake.render.ArchiveRenderer.render(ArchiveRenderer.java:18)
+	at org.jbake.app.Oven.bake(Oven.java:151)
+	at org.jbake.launcher.Baker.bake(Baker.java:20)
+	at org.jbake.launcher.Main.run(Main.java:95)
+	at org.jbake.launcher.Main.run(Main.java:81)
+	at org.jbake.launcher.Main.main(Main.java:34)
