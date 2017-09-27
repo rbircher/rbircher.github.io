@@ -6,9 +6,20 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mi, 27 Sep 2017 10:21:47 +0200</pubDate>
-    <lastBuildDate>Mi, 27 Sep 2017 10:21:47 +0200</lastBuildDate>
+    <pubDate>Mi, 27 Sep 2017 10:48:35 +0200</pubDate>
+    <lastBuildDate>Mi, 27 Sep 2017 10:48:35 +0200</lastBuildDate>
 
+    <item>
+      <title>Wer wird der erste Sponsor?</title>
+      <link>http://jbake.org/blog/2017/news27092017.html</link>
+      <pubDate>Mi, 27 Sep 2017 00:00:00 +0200</pubDate>
+      <guid isPermaLink="false">blog/2017/news27092017.html</guid>
+      	<description>
+	&lt;p&gt;Gestern war ein Tag! Wir haben alle sehr intensiv gearbeitet. Über 20 Sponsoren wurden angeschrieben und auch schon erste technische Arbeiten erledigt. Heute geht es weiter mit diesen Arbeiten. Wir sind alle sehr gespannt, wer wir als erster Sponsor begrüssen dürfen.&lt;/p&gt;
+&lt;p&gt;Am Abend trudelte dann auch noch Verstärdung ein. Erst Cornel, dann Joël. Robin Disch sicherte uns zu, ein Logo für den Verein zu machen. So wird dann im November der Verein auch endlich ein Logo haben. Des Weiteren erstellten wir gestern noch unsere Facebook Page. Die könnt ihr &lt;a href=&quot;https://www.facebook.com/vefko/&quot;&gt;hier&lt;/a&gt; finden.&lt;/p&gt;
+&lt;p&gt;Vor Drei Monaten war das Ganze noch eine Idee von mir. Heute hat der Verein schon fünf Mitwirkende. Es ist wirklich toll, wie sich das entwickelt. Doch bei allem Herzblut, Ohne Sponsoren wird nichts aus der Sache. Wir brauchen Geld für den Hauptserver. Erst dann können wir richtig effizient mit der Entwicklung der Software anfangen. Daher sind wir sehr gespannt, wer wir als erstes als Sponsor verkünden dürfen.&lt;/p&gt;
+	</description>
+    </item>
     <item>
       <title>Neues Vlog über den Verein</title>
       <link>http://jbake.org/blog/2017/news15092017.html</link>
