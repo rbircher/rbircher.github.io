@@ -217,13 +217,6 @@ p a > code:hover { color: #561309; }
 
 #content #toctitle { font-weight: bold; font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size: 1em; padding-left: 0.125em; }
 
-#vid {
-	width:"100%";
-	min-width:"320px";
-	max-width:"720px";
-	
-}
-
 #footer { max-width: 100%; background-color: #222222; padding: 1.25em; }
 
 #footer-text { color: #dddddd; line-height: 1.44; }

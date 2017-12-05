@@ -6,8 +6,8 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 5 Dec 2017 04:40:08 +0100</pubDate>
-    <lastBuildDate>Tue, 5 Dec 2017 04:40:08 +0100</lastBuildDate>
+    <pubDate>Tue, 5 Dec 2017 04:49:22 +0100</pubDate>
+    <lastBuildDate>Tue, 5 Dec 2017 04:49:22 +0100</lastBuildDate>
 
     <item>
       <title>Garage René Disch macht das erste Sponsoring</title>
@@ -37,11 +37,7 @@
       <guid isPermaLink="false">blog/2017/news15092017.html</guid>
       	<description>
 	&lt;p&gt;In einem neuen Vlog habe ich wieder über den Verein gesprochen. Viel Spass damit&lt;/p&gt;
-&lt;html&gt;
-&lt;div id=&quot;vid&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/iLGLXGu8bQw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/html&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/iLGLXGu8bQw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 	</description>
     </item>
     <item>
